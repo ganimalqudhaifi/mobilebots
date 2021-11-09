@@ -1,0 +1,16 @@
+$NamaPenerima = 'David';
+$NamaBarang = 'Topi Kupluk Rajut Beanie Hat Short Pria Wanita Dewasa Premium Distro Quality';
+$shop_id = '4715810';
+$item_id = '8069509210';
+$model_id = '82920497954';
+$address_id = '81056558';
+$logistic_channel_id = '8003';
+$harga_asli = '1111100000';
+$harga_ongkir = '1400000000';
+
+$item_group_id = '0';
+$harga_barang = '1111100000';
+$shopeepay = false;
+
+date_default_timezone_set('Asia/Jakarta');
+$jam_flash_sale = mktime(18,00,00,11,9,2021);
